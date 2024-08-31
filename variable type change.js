@@ -15,3 +15,7 @@ console.log(tk_rate)
 console.log(usd)
 var total = tk_rate + usd;
 console.log(total.toFixed(2)) //tofixed fixed the value of number after point
+
+
+// infinity
+console.log(-50/0)
