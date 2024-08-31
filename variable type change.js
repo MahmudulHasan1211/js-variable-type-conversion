@@ -14,4 +14,4 @@ var usd =parseFloat ('0.2'); //change into float number
 console.log(tk_rate)
 console.log(usd)
 var total = tk_rate + usd;
-console.log(total.toFixed(2)) //tofixed fixed the valu of number after point
+console.log(total.toFixed(2)) //tofixed fixed the value of number after point
