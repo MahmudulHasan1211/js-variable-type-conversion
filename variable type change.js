@@ -19,3 +19,6 @@ console.log(total.toFixed(2)) //tofixed fixed the value of number after point
 
 // infinity
 console.log(-50/0)
+
+// infinity
+console.log(50/0)
